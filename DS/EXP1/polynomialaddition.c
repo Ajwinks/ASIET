@@ -1,4 +1,6 @@
-
+//AJWIN KS
+//ROLL NO:4
+//POLYNOMIAL ADDITION
 
 #include<stdio.h>
 
