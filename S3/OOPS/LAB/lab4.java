@@ -1,5 +1,5 @@
 import java.util.*;
-class pavithra
+class Ajwin
 {
     public static void main(String args[])
     {
